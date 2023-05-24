@@ -1,0 +1,19 @@
+
+
+.cart_card{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  line-height: 100px;
+  height: 100px;
+  background: rgb(226, 223, 223);
+  border-radius: 5px;
+  width: 100%;
+  margin: 20px 0;
+  gap: 5rem;
+}
+.cart_card img{
+  width: 50px;
+  height: 70px;
+}
